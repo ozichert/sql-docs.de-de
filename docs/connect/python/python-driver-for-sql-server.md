@@ -27,7 +27,7 @@ Sie können mit Python unter Windows, Linux oder macOS eine Verbindung mit einer
 ## <a name="getting-started"></a>Erste Schritte  
 Es stehen verschiedene Python-SQL-Treiber zur Verfügung. Microsoft testet und bevorzugt allerdings den Treiber **pyodbc**. Entscheiden Sie sich für einen Treiber, und konfigurieren Sie Ihre Entwicklungsumgebung entsprechend:
 * [Python-SQL-Treiber – pyodbc](pyodbc/python-sql-driver-pyodbc.md)
-* [Python-SQL-Treiber – pymssql](pymssql/python-sql-driver-pymssql.md)
+* [Python-SQL-Treiber – pymssql](pymssql/python-sql-driver-pymssql.md) (further development discontinued)
   
 ## <a name="documentation"></a>Dokumentation  
 * [Python-Dokumentation auf python.org](https://www.python.org/doc/)  
